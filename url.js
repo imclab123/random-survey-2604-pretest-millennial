@@ -19,6 +19,6 @@ const urls = [
 
 
 
-'https://zh.surveymonkey.com/r/37HK6V6' // GPT_B_12
+
 	
 	];
