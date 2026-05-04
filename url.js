@@ -11,7 +11,7 @@ const urls = [
 
 
 
-'https://zh.surveymonkey.com/r/X3MB5F3', // Google_B_8
+
 
 
 'https://zh.surveymonkey.com/r/XFBV6YZ', // Overview_B_10
